@@ -52,15 +52,16 @@ sanskar@github ---------------------------------------------------------
 ---
 
 ### Connect with me
-💼 LinkedIn: https://www.linkedin.com/in/sanskar-krishnani
+💼 LinkedIn: [Sanskar Krishnani](https://www.linkedin.com/in/sanskar-krishnani)
+🐙 GitHub: [Sansii18](https://github.com/Sansii18)
 
 <div align="center">
 
 ### GitHub Analytics
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sansii18&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sansii18&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sansii18&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sansii18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <br>
 
@@ -74,6 +75,6 @@ sanskar@github ---------------------------------------------------------
 
 ### Contribution Snake
 
-![snake gif](https://github.com/Sansii18/Sansii18/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Sansii18/Sansii18/output/github-contribution-grid-snake-dark.svg)
 
 </div>
