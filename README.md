@@ -59,9 +59,7 @@ sanskar@github ---------------------------------------------------------
 
 ### GitHub Analytics
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sansii18&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sansii18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+![Metrics](https://raw.githubusercontent.com/Sansii18/Sansii18/main/metrics.svg)
 
 <br>
 
